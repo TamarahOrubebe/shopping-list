@@ -1,6 +1,7 @@
 
 
 
+
 # Shopping List
 
 ![Project Image](./images/shoppinglist.png)
@@ -30,9 +31,7 @@ This is a static website
 #### Technologies
 
 - HTML
-- CSS
-- Bootstrap
-
+- Javascript
 
 [Back To The Top](#Shopping-List)
 
@@ -87,4 +86,5 @@ SOFTWARE.
 - Website - [Tamarah Orubebe](https://tamarahorubebe.netlify.app)
 
 [Back To The Top](#Shopping-List)
+
 
